@@ -12,6 +12,7 @@
 
 .child-one {
   background-color: green;
+  position: relative;
 }
 
 .child-two {
